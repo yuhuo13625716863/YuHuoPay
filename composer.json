@@ -1,5 +1,5 @@
 {
-    "name": "yuhuo13625716863/YuHuoPay",
+    "name": "yuhuo13625716863/yhpayment",
     "description": "Alipay,Unicompay,weChatPay",
     "keywords": ["Alipay", "Unicompay","weChatPay"],
     "license": "MIT",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yuhuo13625716863\\YuHuoPay\\": "src/"
+            "yuhuo13625716863\\yhpayment\\": "src/"
         }
     }
 }
